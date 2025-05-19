@@ -153,5 +153,4 @@ project-root/
 └── README.md
 ```
 
-Bạn có thể tiếp tục mở rộng thêm các module như: file upload, thống kê, phân tích dữ liệu...
     
